@@ -1,0 +1,4 @@
+debug=True=None
+#####
+xy=(0, 1080, 0, 1920)=None
+time=3000=None
