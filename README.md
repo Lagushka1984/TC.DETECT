@@ -1,6 +1,6 @@
 ## tcUdec
 
-#Installation
+# Installation
 
 ```bash
 git clone https://github.com/Lagushka1984/tcUdec.git
@@ -8,7 +8,7 @@ cd tcUdec
 bash install.sh
 ```
 
-#Launch
+# Launch
 ```bash
-python3 main.py <config-name>.txt
+python3 main.py config.txt
 ```
