@@ -1,10 +1,11 @@
-## tcUdec
+## TC.DETECT
+# Сar license plate recognition software (Python, OpenCV, yoloV7)
 
 # Installation
 
 ```bash
-git clone https://github.com/Lagushka1984/tcUdec.git
-cd tcUdec
+git clone https://github.com/Lagushka1984/TC.DETECT.git
+cd TC.DETECT
 bash install.sh
 ```
 
