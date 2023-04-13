@@ -1,7 +1,7 @@
-## TC.DETECT
+# TC.DETECT
 # Сar license plate recognition software (Python, OpenCV, yoloV7)
 
-# Installation
+## Installation
 
 ```bash
 git clone https://github.com/Lagushka1984/TC.DETECT.git
@@ -9,12 +9,12 @@ cd TC.DETECT
 bash install.sh
 ```
 
-# Launch
+## Launch
 ```bash
 python3 main.py config.txt
 ```
 
-# Config file
+## Config file
 
 ### Default command template
 ```bash
